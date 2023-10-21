@@ -1,0 +1,10 @@
+{
+  "name" : "HomerunDerby",
+  "tags" : "Game Baseball Homerun PC",
+  "developer" : "Tomo",
+  "snapshot" : "screenshot.PNG",
+  "time" : "10min.",
+  "difficulty" : "Easy-Hard",
+  "readme" : "README.md",
+  "exec" : "HomerunDerby.exe"
+}
